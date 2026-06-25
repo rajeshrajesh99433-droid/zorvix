@@ -1,7 +1,7 @@
 
   # Build NexaMart E-Commerce Platform
 
-  This is a code bundle for Build NexaMart E-Commerce Platform. The original project is available at https://www.figma.com/design/6ktgIPIYijYXuJtTbi7j70/Build-NexaMart-E-Commerce-Platform.
+  This is a code bundle for Build NexaMart E-Commerce Platform. The original project is available at(http://localhost:5173/)
 
   ## Running the code
 
